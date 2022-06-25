@@ -14,7 +14,7 @@ Contributed repositories
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zouchangfu&theme=react-dark)](https://github.com/acmestack/gobatis)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zouchangfu&theme=react-dark)](https://github.com/zouchangfu)
 
 <!--
 **zouchangfu/zouchangfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
