@@ -6,7 +6,7 @@ please click here [acmestack](https://github.com/acmestack)👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zouchangfu&layout=compact&theme=radical)](https://github.com/zouchangfu)
 
-Contributed repositories
+Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zouchangfu&repo=QanLong&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/zouchangfu/QanLong)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zouchangfu&repo=QanLong-Web&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/zouchangfu/QanLong-Web)
