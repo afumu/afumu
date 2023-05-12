@@ -2,9 +2,9 @@
 please click here [acmestack](https://github.com/acmestack)👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zouchangfu&show_icons=true&theme=cobalt)](https://github.com/zouchangfu)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afumu&show_icons=true&theme=cobalt)](https://github.com/afumu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zouchangfu&layout=compact&theme=radical)](https://github.com/zouchangfu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afumu&layout=compact&theme=radical)](https://github.com/afumu)
 
 ![Go](https://img.shields.io/badge/-Go-E34A86?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
