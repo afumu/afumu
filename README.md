@@ -1,6 +1,8 @@
 ### If you like open source, welcome to join our community! 
 please click here [acmestack](https://github.com/acmestack)👋
 
+### If you want to link me
+please visit my blog [afumublog](https://blog.afumudev.cn)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afumu&show_icons=true&theme=cobalt)](https://github.com/afumu)
 
