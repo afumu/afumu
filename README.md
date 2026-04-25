@@ -4,6 +4,8 @@ please click here [acmestack](https://github.com/acmestack)👋
 ### If you want to link me
 please visit my blog [afumublog](https://blog.afumudev.cn)
 
+> Updated by ChatGPT test.
+
 ![Go](https://img.shields.io/badge/-Go-E34A86?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
