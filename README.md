@@ -8,6 +8,8 @@ I like turning rough ideas into usable tools, especially around browser-based AI
 
 - [OpenLink](https://github.com/afumu/openlink) - lets web AI access local files and run local commands through a browser extension and local Go service.
 - [OpenTeam](https://github.com/afumu/openteam) - a Chrome extension for orchestrating local AI-agent team workflows across web AI services.
+- [OpenWork](https://github.com/afumu/openwork) - a browser-based agent workspace with an admin console, product gateway, and per-user runtime isolation.
+- [OpenRun](https://github.com/afumu/openrun) - a coding agent platform that uses Vercel Sandbox to read, edit, and run code in isolated cloud workspaces.
 - [Wetrace](https://github.com/afumu/wetrace) - a local WeChat chat backup, browsing, export, and visual analysis tool.
 - [Gorm Plus](https://github.com/acmestack/gorm-plus) - an enhanced toolkit for GORM, inspired by the developer experience of MyBatis Plus.
 - [AcmeStack](https://github.com/acmestack) - an open-source technology community for practical engineering projects.
